@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/assembly/assemblyServices.xsd" filename="assemblyServices.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/rhythmyx.wsdl" filename="rhythmyx.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/assembly/assembly.wsdl" filename="assembly.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/ui/uiServices.xsd" filename="uiServices.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/faults.xsd" filename="faults.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/security/security.xsd" filename="security.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/assembly/assembly.xsd" filename="assembly.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/common.xsd" filename="common.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/ui/ui.wsdl" filename="ui.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/system/system.wsdl" filename="system.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/system/system.xsd" filename="system.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/security/securityServices.xsd" filename="securityServices.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/content/content.wsdl" filename="content.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/ui/ui.xsd" filename="ui.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/security/security.wsdl" filename="security.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/ContentEditorLocalDef.xsd" filename="ContentEditorLocalDef.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/system/systemServices.xsd" filename="systemServices.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/BasicObjects.xsd" filename="BasicObjects.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/ContentEditorSharedDef.xsd" filename="ContentEditorSharedDef.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/ContentEditorSystemDef.xsd" filename="ContentEditorSystemDef.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/content/contentServices.xsd" filename="contentServices.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Rhythmyx/WebServices/6.0.0/design/content/content.xsd" filename="content.xsd" />
+  </Results>
+</DiscoveryClientResultsFile>
